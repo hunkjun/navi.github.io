@@ -32,14 +32,14 @@ menu:
     icon: far fa-star
     config: chatgpt
   - name: 常用工具
-    icon: far fa-star
-    config: hotTools
-  - name: 其他工具
     icon: fas fa-tools
     submenu:
       - name: 开发工具
         icon: fas fa-tools
         config: devTools
+  - name: 其他
+    icon: fas fa-tools
+    submenu:
       - name: 我的博客
         icon: fas fa-blog
         config: myBlog
@@ -49,10 +49,15 @@ chatgpt:
     url: https://chat18.aichatos.xyz/
     img: /images/logos/myblog.png
     description: 免费,无需登录,自愿捐赠
+  - name: chatgpt-web
+    url: https://chat.tinycms.xyz/
+    img: /images/logos/myblog.png
+    description: 免费,无需登录,next-web风格
   - name: 知了zhile
     url: https://chat-shared3.zhile.io/
     img: /images/logos/myblog.png
     description: 免费,无需登录,自选线路
+   
 devTools:
   - name: IP地址查询
     url: https://ip138.com/
