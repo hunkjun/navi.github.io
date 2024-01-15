@@ -28,9 +28,9 @@ githubCorner: '<a href="https://github.com/HCLonely/hexo-theme-webstack" class="
 
 expandAll: false
 menu:
-  - name: 测试页面
+  - name: 免费Ghatgpt
     icon: far fa-star
-    config: testPage
+    config: chatgpt
   - name: 常用工具
     icon: far fa-star
     config: hotTools
@@ -44,11 +44,11 @@ menu:
         icon: fas fa-blog
         config: myBlog
 
-testPage:
-  - name: Child Page
-    url: /child
+chatgpt:
+  - name: 镜像aichatos
+    url: https://chat18.aichatos.xyz/
     img: /images/logos/myblog.png
-    description: 子页面测试
+    description: 免费,无需登录
 devTools:
   - name: Github
     url: https://github.com/
