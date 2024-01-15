@@ -54,7 +54,7 @@ chatgpt:
     img: /images/logos/myblog.png
     description: 免费,无需登录,next-web风格
   - name: 知了zhile
-    url: https://chat-shared3.zhile.io/
+    url: https://chat-shared3.zhile.io/shared.html?v=2
     img: /images/logos/myblog.png
     description: 免费,无需登录,自选线路
    
