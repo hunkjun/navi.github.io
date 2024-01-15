@@ -54,10 +54,10 @@ chatgpt:
     img: /images/logos/myblog.png
     description: 免费,无需登录,自选线路
 devTools:
-  - name: Github
-    url: https://github.com/
+  - name: IP地址查询
+    url: https://ip138.com/
     img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
+    description: iP地址归属地查询
 
 
 myBlog:
