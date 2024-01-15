@@ -48,7 +48,7 @@ chatgpt:
   - name: 镜像aichatos
     url: https://chat18.aichatos.xyz/
     img: /images/logos/myblog.png
-    description: 免费,无需登录
+    description: 免费,无需登录,自愿捐赠
 devTools:
   - name: Github
     url: https://github.com/
